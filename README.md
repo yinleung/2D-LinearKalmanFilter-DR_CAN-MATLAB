@@ -1,4 +1,4 @@
-# 2-DLinearKalmanFilter-Dr_CAN-MATLAB
+# 2D-LinearKalmanFilter-DR_CAN-MATLAB
 
 DR_CAN卡尔曼滤波例子的MATLAB简单实现
 
